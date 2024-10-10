@@ -6,6 +6,7 @@
 		margin-top: 4px;
 		margin-bottom: 4px;
 		text-align: left;
+		color: #8C1515; /* Added cardinal red color */
 	}
 	h1 {
 		font-size: 34px;
@@ -82,12 +83,12 @@
 	}
 	a {
 		text-decoration: none;
-		color: darkblue;
+		color: #009bee;
 		/*color: blue;*/
 	}
 	a:visited {
 		text-decoration: none;
-		color: darkblue;
+		color: #009bee;
 		/*color: blue;*/
 	}
 	a:hover {
@@ -102,8 +103,6 @@
 		text-decoration: none;
 	}
 	
-}
-
 @media screen and (max-width: 1000px) { 
 
 	h1, h2 {
@@ -112,6 +111,7 @@
 		margin-top: 4px;
 		margin-bottom: 4px;
 		text-align: left;
+		color: #8C1515; /* Added cardinal red color */
 	}
 	h1 {
 		font-size: 34px;
@@ -148,11 +148,11 @@
 	}
 	a {
 		text-decoration: none;
-		color: darkblue;
+		color: #009bee;
 	}
 	a:visited {
 		text-decoration: none;
-		color: darkblue;
+		color: #009bee;
 		/*color: blue;*/
 	}
 	a:hover {
