@@ -11,7 +11,7 @@
 function myFunction(id) {
   var x = document.getElementById(id);
 
-  var ids = ["abs_jmp", "abs_scimed", "teaching_bpe"];
+  var ids = ["abs_jmp", "abs_scimed", "teaching_bpe", "teaching_Rguide"];
 
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
@@ -48,7 +48,7 @@ function myFunction(id) {
 
       <div id="contact">
 
-        <img src="MattBrown_Headshot.jpeg" width=295px height=295px alt="Photo of Matthew Brown" /> 
+        <img src="MattBrown_Headshot.jpeg" width=285px height=285px alt="Photo of Matthew Brown" /> 
         <h1>Matthew Brown</h1>
 
         <div class="text">
@@ -98,34 +98,38 @@ function myFunction(id) {
 
         <hr><h2>Teaching</h2>
         <div class="text"> 
-        <p> I have TAed for three undergraduate courses at Stanford: Principles of Economics, Behavioral Economics (three semesters), and Empirical Environmental Economics (two semesters). I received Stanford's Outstanding Teaching Assistant Award four times for my instruction in the latter two classes. Below, I provide for public use some teaching materials that I developed for those classes.</p>
+        <p> I have TAed for three undergraduate courses at Stanford: Principles of Economics, Behavioral Economics (three semesters), and Empirical Environmental Economics (two semesters). I received Stanford's Outstanding Teaching Assistant Award four times for my instruction in the latter two classes.</p>
         
+        <p>Below, I provide for public use some teaching materials that I developed for those classes.</p></p>
 
         <div class="buttonbar"><button class="button" onclick="myFunction(&quot;teaching_bpe&quot;)">Behavioral Public Economics</button></div>
         <div class="popup" id="teaching_bpe" style="display:none;">
             <div class="text">
+              <ul>
+                <li>Adapts content from the <a class="XqQF9c" href="https://sites.google.com/view/behavioralpublic/home" target="_blank"><b>NBER Behavioral Public Economics PhD student boot camp</b></a> for an undergraduate elective class.</li>
+                <li>The public economics intuition is presented via supply and demand diagrams. There are few equations.</li>
+                <li>Developed for four 100-minute class periods in ECON 178 at Stanford (Undergraduate Behavioral Economics)</li>
+                <li>Lecture slides (PowerPoint)</li>
                 <ul>
-                    <li>Adapts content from the <a class="XqQF9c" href="https://sites.google.com/view/behavioralpublic/home" target="_blank"><b>NBER Behavioral Public Economics PhD student boot camp</b></a> for an undergraduate elective class.</li>
-                    <li>The public economics intuition is presented via supply and demand diagrams. There are few equations.</li>
-                    <li>Developed for four 100-minute class periods in ECON 178 at Stanford (Undergraduate Behavioral Economics)</li>
-                    <li>Lecture slides (PowerPoint)</li>
-                    <ul>
-                      <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass1.pptx" target="_blank"> Class 1: Introduction and normative foundations</a></li>
-                      <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass2.pptx" target="_blank"> Class 2: Taxes</a></li>
-                      <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass3.pptx" target="_blank"> Class 3: Nudges</a></li>
-                      <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass4.pptx" target="_blank"> Class 4: Other topics</a></li>
-                    </ul>
+                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass1.pptx" target="_blank"> Class 1: Introduction and normative foundations</a></li>
+                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass2.pptx" target="_blank"> Class 2: Taxes</a></li>
+                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass3.pptx" target="_blank"> Class 3: Nudges</a></li>
+                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass4.pptx" target="_blank"> Class 4: Other topics</a></li>
                 </ul>
+              </ul>
             </div>
         </div>
 
+      <div class="buttonbar"><button class="button" onclick="myFunction(&quot;teaching_Rguide&quot;)">R for Applied Economics: A Beginner's Guide</button></div>
+      <div class="popup" id="teaching_Rguide" style="display:none;">
         <div class="text">
-          <a href="https://bookdown.org/mbrown35/bookdown-Rguide/" target="_blank"><b>Website Link</b></a>
+          <a href="https://bookdown.org/mbrown35/bookdown-Rguide/" target="_blank"><b>Web Link</b></a>
           <ul>
               <li>Walks students through the process of setting up R, downloading and cleaning data, performing analyses, and saving output.</li>                
               <li>Tailored for econ-specific tasks (e.g, regression tables and event study plots)</li>
               <li>Developed for ECON 177 at Stanford (undergraduate environmental economics).</li>
           </ul>
+          </div>
       </div>
 
 
