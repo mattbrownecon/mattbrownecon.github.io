@@ -11,7 +11,10 @@
 function myFunction(id) {
   var x = document.getElementById(id);
 
-  var ids = ["abs_jmp", "abs_scimed", "teaching_bpe", "teaching_Rguide"];
+  var ids = [
+    "abs_jmp", "surveys_jmp",
+    "abs_scimed", 
+    "teaching_bpe", "teaching_Rguide"];
 
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
@@ -55,7 +58,7 @@ function myFunction(id) {
         
         <p>I am completing my PhD in Economics at Stanford University with work in public economics and behavioral economics. I am on the 2024&ndash;2025 academic job market. My committee is Matthew Gentzkow, Hunt Allcott, and Doug Bernheim.</p>
 
-        <p>In my research, I extend public economics models to settings where agents make behavioral errors and use methods from behavioral economics to for empirical analysis. I use this approach to study how to design public policy in various applied settings where behavioral errors are relevant.</p>
+        <p>In my research, I extend public economics models to settings where agents make behavioral errors and use methods from behavioral economics for empirical analysis. I use this approach to study how to design public policy in various applied settings where behavioral errors are relevant.</p>
 
           <!-- <p><a href="https://arosenbe.github.io/assets/amr/cv.pdf" class="button">CV</a> -->
           <p><a href="mailto:mbrown35@stanford.edu" class="button">Email: mbrown35@stanford.edu</a></p>
@@ -72,7 +75,7 @@ function myFunction(id) {
 
           <!-- <p><a href="https://arosenbe.github.io/web/assets/papers/ca_gun_store/rosenberg_jmp.pdf" class="title"><b>Regulating Firearm Markets: Evidence from California</b></a> (<i>Job market paper, coming soon</i>) -->
 
-          <p><b>Do Sports Bettors Need Consumer Protection? Evidence From A Field Experiment</b> (with Nick Grasley and Mariana Guido, <i>Job market paper, coming soon</i>)
+          <p><b>Do Sports Bettors Need Consumer Protection? Evidence From A Field Experiment</b> (with Nick Grasley and Mariana Guido) <i>Job market paper, coming soon</i>
 
           <div class="buttonbar"><button class="button" onclick="myFunction(&quot;abs_jmp&quot;)">Abstract</button></div>
 
@@ -80,10 +83,14 @@ function myFunction(id) {
             Corrective policy in sports betting markets is motivated by concerns that demand is driven by behavioral bias rather than a normative preference to gamble. We conduct a field experiment with frequent sports bettors to measure the impact of two biases, overoptimism about financial returns and self-control problems, on the demand for sports betting. We find widespread over-optimism about financial returns. The average participant predicts that they will break even, but in fact loses about 8 cents for every dollar wagered. Self-control problems are smaller and less common. We estimate a model of biased betting and use it to evaluate several corrective policies. Our estimates imply that the surplus-maximizing corrective excise tax on sports betting is twice as large as prevailing tax rates. We estimate substantial heterogeneity in bias across bettors, which implies that targeted interventions that directly eliminate bias could improve on a tax. However, implementation is challenging: we show that two bias-correction interventions favored by the gambling industry do not deliver the targeting improvements.
           </div>
 
-          <!-- <p><a href="https://arosenbe.github.io/web/assets/papers/gun_market_power/gun_market_power.pdf" class="title"><b>The U.S. Consumer Firearms Industry: Welfare and Policy Implications</b></a> (with Luis Armona) -->
-          <p><a href="https://mattdbrown17.github.io/assets/papers/sciencemedia/sciencemedia.pdf" class="title"><b>The Role of Ideology in Media Coverage of Science</b></a> (with Harsh Gupta <i> Last updated: July 2023</i>)
+          <div class="popup" id="surveys_jmp" style="display:none;">
+            <p>PDF survey instruments available for download. Qualtrics files are available on request.
+          </div>
 
-          <div class="buttonbar"><button class="button" onclick="myFunction(&quot;abs_scimed&quot;)">Abstract</button> <a href="https://mattdbrown17.github.io/assets/papers/sciencemedia/sciencemediaSM.pdf" class="button">Supplemental Materials</a> </div>
+          <!-- <p><a href="https://arosenbe.github.io/web/assets/papers/gun_market_power/gun_market_power.pdf" class="title"><b>The U.S. Consumer Firearms Industry: Welfare and Policy Implications</b></a> (with Luis Armona) -->
+          <p><a href="https://mattbrownecon.github.io/assets/papers/sciencemedia/sciencemedia.pdf" class="title"><b>The Role of Ideology in Media Coverage of Science</b></a> (with Harsh Gupta) <i>Last updated: July 2023</i>
+
+          <div class="buttonbar"><button class="button" onclick="myFunction(&quot;abs_scimed&quot;)">Abstract</button> <a href="https://mattbrownecon.github.io/assets/papers/sciencemedia/sciencemediaSM.pdf" class="button">Supplemental Materials</a> </div>
           <div class="popup" id="abs_scimed" style="display:none;">
             We study the role of political ideology in the diffusion of scientific knowledge by media outlets. We document, using a novel measure of scientist ideology that spans more than 600,000 papers, that outlets are statistically significantly more likely to cover scientists with similar ideology. However, the role of scientist ideology is small in magnitude when compared to the role of scientific quality, as measured by academic citations, journal quality, and research funding, in media coverage of science. On average, outlets are more likely to cover high-quality research written by misaligned scientists than low-quality research written by ideologically aligned scientists.
           </div>
@@ -111,10 +118,10 @@ function myFunction(id) {
                 <li>Developed for four 100-minute class periods in ECON 178 at Stanford (Undergraduate Behavioral Economics)</li>
                 <li>Lecture slides (PowerPoint)</li>
                 <ul>
-                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass1.pptx" target="_blank"> Class 1: Introduction and normative foundations</a></li>
-                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass2.pptx" target="_blank"> Class 2: Taxes</a></li>
-                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass3.pptx" target="_blank"> Class 3: Nudges</a></li>
-                  <li><a href="https://mattdbrown17.github.io/assets/teaching/bpubec/BPubEcClass4.pptx" target="_blank"> Class 4: Other topics</a></li>
+                  <li><a href="https://mattbrownecon.github.io/assets/teaching/bpubec/BPubEcClass1.pptx" target="_blank"> Class 1: Introduction and normative foundations</a></li>
+                  <li><a href="https://mattbrownecon.github.io/assets/teaching/bpubec/BPubEcClass2.pptx" target="_blank"> Class 2: Taxes</a></li>
+                  <li><a href="https://mattbrownecon.github.io/assets/teaching/bpubec/BPubEcClass3.pptx" target="_blank"> Class 3: Nudges</a></li>
+                  <li><a href="https://mattbrownecon.github.io/assets/teaching/bpubec/BPubEcClass4.pptx" target="_blank"> Class 4: Other topics</a></li>
                 </ul>
               </ul>
             </div>
