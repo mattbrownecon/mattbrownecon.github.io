@@ -11,7 +11,6 @@
     <title>Matthew Brown</title>
 
     <!-- Google Analytics tracking code -->
-    <!-- Replace G-XXXXXXXXXX with your actual Measurement ID -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4TR57QF037"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -43,38 +42,55 @@
           }
         }        
       }
-      </script>
+    </script>
+    <style>
+      #contact {
+          margin-bottom: 2rem;
+      }
+
+      #contact img {
+          max-width: 375px;
+          height: auto;
+          width: 100%;
+      }
+
+      hr {
+          margin: 2rem 0;
+          border: none;
+          border-top: 1px solid #ccc;
+          clear: both;
+      }
+
+      @media (max-width: 768px) {
+          #contact img {
+              max-width: 100%;
+          }
+      }
+  </style>
 </head>
 
 <body>
-  <div id="container">
-
+<div id="container">
   <div id="center">
+    <div id="contact">
+      <img src="MattBrown_Headshot.jpg" alt="Photo of Matthew Brown" /> 
+      <h1>Matthew Brown</h1>
 
-      <div id="contact">
-
-        <img src="MattBrown_Headshot.jpg" width=375px height=375px alt="Photo of Matthew Brown" /> 
-        <h1>Matthew Brown</h1>
-
-        <div class="text">
-        
+      <div class="text">
         <p>I am completing my PhD in Economics at Stanford University with work in public economics and behavioral economics. I am on the 2024&ndash;2025 academic job market. My committee is Matthew Gentzkow (<a href="mailto:gentzkow@stanford.edu">gentzkow@stanford.edu</a>), Hunt Allcott (<a href="mailto:allcott@stanford.edu">allcott@stanford.edu</a>), and Doug Bernheim (<a href="mailto:bernheim@stanford.edu">bernheim@stanford.edu</a>).</p>
 
         <p>In my research, I extend public economics models to settings where agents make behavioral errors and use methods from behavioral economics for empirical analysis. I use this approach to study how to design public policy in various applied settings where behavioral errors are relevant.</p>
 
         <p><a href="https://mattbrownecon.github.io/assets/mdb/cv.pdf" class="button">CV</a> <a href="mailto:mbrown35@stanford.edu" class="button">Email: mbrown35@stanford.edu</a></p>
-
-        </div>
       </div>
+    </div>
 
-      <div style="height: 120px;"></div>
-        <hr>
-
+    <hr>
 
         <h2>Working papers</h2>
         <div class="text">
 
-          <p><a href="https://mattbrownecon.github.io/assets/papers/jmp/sportsbetting.pdf"><b>Do Sports Bettors Need Consumer Protection? Evidence From A Field Experiment</b></a> (with Nick Grasley and Mariana Guido) <i>Job market paper</i>
+          <p><a href="https://mattbrownecon.github.io/assets/papers/jmp/sportsbetting.pdf"><b>Do Sports Bettors Need Consumer Protection? Evidence From A Field Experiment</b></a> (with Nick Grasley and Mariana Guido) <br><i>Job market paper</i>
 
           <div class="buttonbar">
             <button class="button" onclick="myFunction(&quot;abs_jmp&quot;)">Abstract</button>
@@ -118,9 +134,9 @@
         <div class="popup" id="teaching_bpe" style="display:none;">
             <div class="text">
               <ul>
-                <li>Adapts content from the <a class="XqQF9c" href="https://sites.google.com/view/behavioralpublic/home" target="_blank"><b>NBER Behavioral Public Economics PhD student boot camp</b></a> for an undergraduate elective class.</li>
-                <li>The public economics intuition is presented via supply and demand diagrams. There are few equations.</li>
-                <li>Developed for four 100-minute class periods in ECON 178 at Stanford (Undergraduate Behavioral Economics)</li>
+                <li>Adapts content from <a class="XqQF9c" href="https://sites.google.com/view/behavioralpublic/home" target="_blank"><b>NBER Behavioral Public Economics PhD student boot camp</b></a> for undergraduate elective class</li>
+                <li>Public economics intuition presented via supply and demand diagrams (few equations)</li>
+                <li>Developed for four 100-minute class periods in ECON 178 at Stanford (undergraduate behavioral economics)</li>
                 <li>Lecture slides (PowerPoint)</li>
                 <ul>
                   <li><a href="https://mattbrownecon.github.io/assets/teaching/bpubec/BPubEcClass1.pptx" target="_blank"> Class 1: Introduction and normative foundations</a></li>
@@ -137,11 +153,11 @@
       <div class="buttonbar"><button class="button" onclick="myFunction(&quot;teaching_Rguide&quot;)">R for Applied Economics: A Beginner's Guide</button></div>
       <div class="popup" id="teaching_Rguide" style="display:none;">
         <div class="text">
-          <a href="https://bookdown.org/mbrown35/bookdown-Rguide/" target="_blank"><b>Web Link</b></a>
           <ul>
-              <li>Walks students through the process of setting up R, downloading and cleaning data, performing analyses, and saving output.</li>                
-              <li>Tailored for econ-specific tasks (e.g, regression tables and event study plots)</li>
-              <li>Developed for ECON 177 at Stanford (undergraduate environmental economics).</li>
+              <li><a href="https://bookdown.org/mbrown35/bookdown-Rguide/" target="_blank"><b>Online introduction to R</b></a> for undergraduates taking economics classes</li>
+              <li>Walks students through process of setting up R, downloading and cleaning data, performing analyses, saving output</li>                
+              <li>Tailored to econ-specific tasks (e.g, regression tables and event study plots)</li>
+              <li>Developed for ECON 177 at Stanford (undergraduate environmental economics)</li>
           </ul>
           </div>
       </div>
