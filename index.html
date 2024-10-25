@@ -1,48 +1,47 @@
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <link rel="stylesheet" href="main.css" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
-  <meta name="google-site-verification=MEMLWFkUoEtxdwiTcFZCeOzCsMW6Q1SFf1EowOBoj_4" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matthew Brown</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+    
+    <!-- Google Analytics tracking code -->
+    <!-- Replace G-XXXXXXXXXX with your actual Measurement ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4TR57QF037"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4TR57QF037');
+    </script>
 
-  <title>Matthew Brown Economics</title>
-
-  <script>
-function myFunction(id) {
-  var x = document.getElementById(id);
-
-  var ids = [
-    "abs_jmp", "surveys_jmp",
-    "abs_scimed", 
-    "teaching_bpe", "teaching_Rguide"];
-
-  for(var i = 0; i < ids.length; i++) {
-    var item = ids[i];
-    if (item != id) {
-      document.getElementById(item).style.display = "none";
-    } else {
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
-        x.style.display = "none";
+    <!-- Add JavaScript for popup functionality -->
+    <script>
+      function myFunction(id) {
+        var x = document.getElementById(id);
+      
+        var ids = [
+          "abs_jmp", "surveys_jmp",
+          "abs_scimed", 
+          "teaching_bpe", "teaching_Rguide"];
+      
+        for(var i = 0; i < ids.length; i++) {
+          var item = ids[i];
+          if (item != id) {
+            document.getElementById(item).style.display = "none";
+          } else {
+            if (x.style.display === "none") {
+              x.style.display = "block";
+            } else {
+              x.style.display = "none";
+            }
+          }
+        }        
       }
-    }
-  }
-
-  
-}
-</script>
-
+      </script>
 </head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-V2T1LXJPPK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-V2T1LXJPPK');
-</script>
 
 <body>
   <div id="container">
@@ -51,7 +50,7 @@ function myFunction(id) {
 
       <div id="contact">
 
-        <img src="MattBrown_Headshot.jpg" width=295px height=295px alt="Photo of Matthew Brown" /> 
+        <img src="MattBrown_Headshot.jpg" width=350px height=350px alt="Photo of Matthew Brown" /> 
         <h1>Matthew Brown</h1>
 
         <div class="text">
@@ -60,12 +59,12 @@ function myFunction(id) {
 
         <p>In my research, I extend public economics models to settings where agents make behavioral errors and use methods from behavioral economics for empirical analysis. I use this approach to study how to design public policy in various applied settings where behavioral errors are relevant.</p>
 
-          <p><a href="https://mattbrownecon.github.io/assets/mdb/cv.pdf" class="button">CV</a> <a href="mailto:mbrown35@stanford.edu" class="button">Email: mbrown35@stanford.edu</a></p>
+        <p><a href="https://mattbrownecon.github.io/assets/mdb/cv.pdf" class="button">CV</a> <a href="mailto:mbrown35@stanford.edu" class="button">Email: mbrown35@stanford.edu</a></p>
 
         </div>
       </div>
-    
 
+      <div style="height: 75px;"></div>
         <hr>
 
 
