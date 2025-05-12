@@ -1,0 +1,80 @@
+"specific_industry","naics_code","Total hours worked2     (millions)","Fatal injury rate3","Margin of error4","sector_code","category","is_parent","parent_code","subheader"
+"Drinking places","7224","300","13.3","2.4300000000000002","72","Accommodation and Food Services",FALSE,"722","Food services and drinking places"
+"Other Food services and drinking places","other-722",,,,,"Accommodation and Food Services",,"722","Food services and drinking places"
+"Restaurants and other food services","72201","13400","1.6","0.04","72","Accommodation and Food Services",FALSE,"722","Food services and drinking places"
+"Other Accommodation and Food Services Activities","other-72",,,,,"Accommodation and Food Services",,"72",
+"Employment services","5613","1500","6.8","0.55000000000000004","56","Administrative and Support and Waste Management",FALSE,"56",
+"Investigation and security services","5616","1500","6","0.53","56","Administrative and Support and Waste Management",FALSE,"56",
+"Landscaping services","56173","2500","18.8","1.25","56","Administrative and Support and Waste Management",FALSE,"56",
+"Other Administrative and Support and Waste Management Activities","other-56",,,,,"Administrative and Support and Waste Management",,"56",
+"Waste management and remediation services","562","700","16.7","1.82","56","Administrative and Support and Waste Management",FALSE,"56",
+"Animal production and aquaculture","112","1700","15.5","1.77","11","Agriculture, Forestry, Fishing and Hunting",FALSE,"11",
+"Crop production","111","2300","14.9","1.63","11","Agriculture, Forestry, Fishing and Hunting",FALSE,"11",
+"Fishing, hunting, and trapping","114","100","58.8","19.75","11","Agriculture, Forestry, Fishing and Hunting",FALSE,"11",
+"Logging","1133","200","68.400000000000006","17.010000000000002","11","Agriculture, Forestry, Fishing and Hunting",FALSE,"11",
+"Other Agriculture, Forestry, Fishing and Hunting Activities","other-11",,,,,"Agriculture, Forestry, Fishing and Hunting",,"11",
+"Support activities for agriculture and forestry","115","300","37.200000000000003","7.64","11","Agriculture, Forestry, Fishing and Hunting",FALSE,"11",
+"Amusement, gambling, and recreation industries","713","2600","2.6","0.14000000000000001","71","Arts, Entertainment, and Recreation",FALSE,"71",
+"Other Arts, Entertainment, and Recreation Activities","other-71",,,,,"Arts, Entertainment, and Recreation",,"71",
+"Performing arts, spectator sports, and related industries","711","1200","3.2","0.31","71","Arts, Entertainment, and Recreation",FALSE,"71",
+"Construction","23","21000","9.4","0.2","23","Construction",FALSE,"23",
+"Educational services","61","8500","0.7","0.02","61","Educational Services",FALSE,"61",
+"Finance and insurance","52","14800","0.2","0.01","52","Finance and Insurance",FALSE,"52",
+"Ambulatory health care services","621","14900","0.7","0.02","62","Health Care and Social Assistance",FALSE,"62",
+"Hospitals","622","12500","0.4","0.01","62","Health Care and Social Assistance",FALSE,"62",
+"Nursing and residential care facilities","623","4000","1.5","7.0000000000000007E-2","62","Health Care and Social Assistance",FALSE,"62",
+"Other Health Care and Social Assistance Activities","other-62",,,,,"Health Care and Social Assistance",,"62",
+"Social assistance","624","4700","1.2","0.05","62","Health Care and Social Assistance",FALSE,"62",
+"Publishing industries","511","700","3.2","0.36","51","Information",FALSE,"51",
+"Animal slaughtering and processing","3116","900","5.6","0.86","31","Manufacturing",FALSE,"311","Food manufacturing"
+"Other Food manufacturing","other-311",,,,,"Manufacturing",,"311","Food manufacturing"
+"Chemical manufacturing","325","2900","1.8","0.12","32","Manufacturing",FALSE,"32","Other Manufacturing"
+"Fabricated metal product manufacturing","332","2300","4.4000000000000004","0.28999999999999998","33","Manufacturing",FALSE,"33","Other Manufacturing"
+"Machinery manufacturing","333","1000","2.8","0.28000000000000003","33","Manufacturing",FALSE,"33","Other Manufacturing"
+"Nonmetallic mineral product manufacturing","327","800","12","1.22","32","Manufacturing",FALSE,"32","Other Manufacturing"
+"Plastics and rubber products manufacturing","326","1100","4.5","0.5","32","Manufacturing",FALSE,"32","Other Manufacturing"
+"Primary metal manufacturing","331","800","5.9","0.66","33","Manufacturing",FALSE,"33","Other Manufacturing"
+"Transportation equipment manufacturing","336","5000","1.1000000000000001","7.0000000000000007E-2","33","Manufacturing",FALSE,"33","Other Manufacturing"
+"Wood product manufacturing","321","900","8.4","0.97","32","Manufacturing",FALSE,"32","Other Manufacturing"
+"Other Manufacturing Activities","other-31",,,,,"Manufacturing",,"31",
+"Coal mining","2121","100","19.600000000000001","7.73","21","Mining, Quarrying, and Oil and Gas Extraction",FALSE,"212","Mining (except oil and gas)"
+"Metal ore mining","2122","100","19.2","9.3000000000000007","21","Mining, Quarrying, and Oil and Gas Extraction",FALSE,"212","Mining (except oil and gas)"
+"Nonmetallic mineral mining and quarrying","2123","200","16.3","3.6","21","Mining, Quarrying, and Oil and Gas Extraction",FALSE,"212","Mining (except oil and gas)"
+"Other Mining","other-212",,,,,"Mining, Quarrying, and Oil and Gas Extraction",,"212","Mining (except oil and gas)"
+"Oil and gas extraction","211","100","9.8000000000000007","2.4700000000000002","21","Mining, Quarrying, and Oil and Gas Extraction",FALSE,"21","Other Mining, Quarrying, and Oil and Gas Extraction"
+"Support activities for mining","213","900","13.4","2.5499999999999998","21","Mining, Quarrying, and Oil and Gas Extraction",FALSE,"21","Other Mining, Quarrying, and Oil and Gas Extraction"
+"Other Mining, Quarrying, and Oil and Gas Extraction Activities","other-21",,,,,"Mining, Quarrying, and Oil and Gas Extraction",,"21",
+"Personal and laundry services","812","3800","3.1","0.16","81","Other Services (except Public Administration)",FALSE,"81","Other Other Services (except Public Administration)"
+"Automotive repair and maintenance","8111","2600","7.1","0.42","81","Other Services (except Public Administration)",FALSE,"811","Repair and maintenance"
+"Other Repair and maintenance","other-811",,,,,"Other Services (except Public Administration)",,"811","Repair and maintenance"
+"Other Other Services Activities","other-81",,,,,"Other Services (except Public Administration)",,"81",
+"Architectural, engineering, and related services","5413","3300","1.8","0.09","54","Professional, Scientific, and Technical Services",FALSE,"54",
+"Other Real Estate and Rental and Leasing Activities","other-53",,,,,"Real Estate and Rental and Leasing",,"53",
+"Real estate","531","5200","2.2000000000000002","0.1","53","Real Estate and Rental and Leasing",FALSE,"53",
+"Rental and leasing services","532","600","8","1.01","53","Real Estate and Rental and Leasing",FALSE,"53",
+"Grocery stores","4451","4800","2.2999999999999998","0.1","44","Retail Trade",FALSE,"445","Food and beverage stores"
+"Other Food and beverage stores","other-445",,,,,"Retail Trade",,"445","Food and beverage stores"
+"Automobile dealers","4411","2500","2","0.14000000000000001","44","Retail Trade",FALSE,"441","Motor vehicle and parts dealers"
+"Automotive parts, accessories, and tire stores","4413","900","4.2","0.4","44","Retail Trade",FALSE,"441","Motor vehicle and parts dealers"
+"Other Motor vehicle and parts dealers","other-441",,,,,"Retail Trade",,"441","Motor vehicle and parts dealers"
+"Building material and garden equipment and supplies dealers","444","2900","1.6","0.1","44","Retail Trade",FALSE,"44","Other Retail Trade"
+"Gasoline stations","447","800","7.6","0.71","44","Retail Trade",FALSE,"44","Other Retail Trade"
+"Miscellaneous store retailers","453","1800","1.7","0.12","45","Retail Trade",FALSE,"45","Other Retail Trade"
+"Nonstore retailers","454","2000","1.6","0.1","45","Retail Trade",FALSE,"45","Other Retail Trade"
+"Other Retail Trade Activities","other-44",,,,,"Retail Trade",,"44",
+"Air transportation","481","1100","4.2","0.38","48","Transportation and Warehousing",FALSE,"48","Other Transportation and Warehousing"
+"Couriers and messengers","492","2400","5","0.28999999999999998","49","Transportation and Warehousing",FALSE,"49","Other Transportation and Warehousing"
+"Rail transportation","482","400","6.1","0.95","48","Transportation and Warehousing",FALSE,"48","Other Transportation and Warehousing"
+"Support activities for transportation","488","1400","15.6","1.39","48","Transportation and Warehousing",FALSE,"48","Other Transportation and Warehousing"
+"Truck transportation","484","4600","28.3","1.37","48","Transportation and Warehousing",FALSE,"48","Other Transportation and Warehousing"
+"Warehousing and storage","493","2000","4.5","0.34","49","Transportation and Warehousing",FALSE,"49","Other Transportation and Warehousing"
+"Water transportation","483","100","13.3","3.15","48","Transportation and Warehousing",FALSE,"48","Other Transportation and Warehousing"
+"Bus service and urban transit","4851","500","7.4","0.96","48","Transportation and Warehousing",FALSE,"485","Transit and ground passenger transportation"
+"Other Transit and ground passenger transportation","other-485",,,,,"Transportation and Warehousing",,"485","Transit and ground passenger transportation"
+"Taxi and limousine service","4853","700","10.8","1.27","48","Transportation and Warehousing",FALSE,"485","Transit and ground passenger transportation"
+"Other Transportation and Warehousing Activities","other-48",,,,,"Transportation and Warehousing",,"48",
+"Utilities","22","2100","3.4","0.26","22","Utilities",FALSE,"22",
+"Machinery, equipment, and supplies merchant wholesalers","4238","700","4.0999999999999996","0.49","42","Wholesale Trade",FALSE,"423","Merchant wholesalers, durable goods"
+"Other Merchant wholesalers, durable goods","other-423",,,,,"Wholesale Trade",,"423","Merchant wholesalers, durable goods"
+"Recyclable material merchant wholesalers","42393","100","24.3","5.66","42","Wholesale Trade",FALSE,"423","Merchant wholesalers, durable goods"
+"Other Wholesale Trade Activities","other-42",,,,,"Wholesale Trade",,"42",
