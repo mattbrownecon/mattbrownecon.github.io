@@ -1,65 +1,67 @@
-"category","subheader","specific_occupation","soc_code","parent_code"
-"Architecture and Engineering Occupations",,"Architecture and engineering occupations","17-0000","17"
-"Arts, Design, Entertainment, Sports, and Media Occupations",,"Athletes, coaches, umpires, and related workers","27-2020","27"
-"Building and Grounds Cleaning and Maintenance Occupations",,"First-line supervisors of landscaping, lawn service, and groundskeeping workers","37-1012","37"
-"Building and Grounds Cleaning and Maintenance Occupations",,"Grounds maintenance workers","37-3010","37"
-"Building and Grounds Cleaning and Maintenance Occupations",,"Other Building and Grounds Cleaning and Maintenance Occupations","other-37","37"
-"Business and Financial Operations Occupations",,"Business and financial operations occupations","13-0000","13"
-"Community and Social Service Occupations",,"Community and social service occupations","21-0000","21"
-"Computer and Mathematical Occupations",,"Computer and mathematical occupations","15-0000","15"
-"Construction and Extraction Occupations",,"Carpenters","47-2031","47"
-"Construction and Extraction Occupations",,"Construction equipment operators","47-2070","47"
-"Construction and Extraction Occupations",,"Construction laborers","47-2061","47"
-"Construction and Extraction Occupations",,"Electricians","47-2111","47"
-"Construction and Extraction Occupations",,"First-line supervisors of construction trades and extraction workers","47-1011","47"
-"Construction and Extraction Occupations",,"Helpers, construction trades","47-3010","47"
-"Construction and Extraction Occupations",,"Other Construction and Extraction Occupations","other-47","47"
-"Construction and Extraction Occupations",,"Painters and paperhangers","47-2140","47"
-"Construction and Extraction Occupations",,"Pipelayers, plumbers, pipefitters, and steamfitters","47-2150","47"
-"Construction and Extraction Occupations",,"Roofers","47-2181","47"
-"Construction and Extraction Occupations",,"Structural iron and steel workers","47-2221","47"
-"Construction and Extraction Occupations",,"Underground mining machine operators","47-5040","47"
-"Educational Instruction and Library Occupations",,"Educational instruction and library occupations","25-0000","25"
-"Farming, Fishing, and Forestry Occupations",,"Fishing and hunting workers","45-3031","45"
-"Farming, Fishing, and Forestry Occupations",,"Logging workers","45-4020","45"
-"Farming, Fishing, and Forestry Occupations",,"Miscellaneous agricultural workers","45-2090","45"
-"Farming, Fishing, and Forestry Occupations",,"Other Farming, Fishing, and Forestry Occupations","other-45","45"
-"Food Preparation and Serving Related Occupations",,"Supervisors of food preparation and serving workers","35-1010","35"
-"Healthcare Practitioners and Technical Occupations",,"Emergency medical technicians and paramedics","29-2042","29"
-"Healthcare Practitioners and Technical Occupations",,"Other Healthcare Practitioners and Technical Occupations","other-29","29"
-"Healthcare Practitioners and Technical Occupations",,"Registered nurses","29-1141","29"
-"Healthcare Support Occupations",,"Healthcare support occupations","31-0000","31"
-"Installation, Maintenance, and Repair Occupations",,"Automotive service technicians and mechanics","49-3023","49"
-"Installation, Maintenance, and Repair Occupations",,"Bus and truck mechanics and diesel engine specialists","49-3031","49"
-"Installation, Maintenance, and Repair Occupations",,"Electrical power-line installers and repairers","49-9051","49"
-"Installation, Maintenance, and Repair Occupations",,"First-line supervisors of mechanics, installers, and repairers","49-1011","49"
-"Installation, Maintenance, and Repair Occupations",,"Heating, air conditioning, and refrigeration mechanics and installers","49-9021","49"
-"Installation, Maintenance, and Repair Occupations",,"Industrial machinery installation, repair, and maintenance workers","49-9040","49"
-"Installation, Maintenance, and Repair Occupations",,"Maintenance and repair workers, general","49-9071","49"
-"Installation, Maintenance, and Repair Occupations",,"Other Installation, Maintenance, and Repair Occupations","other-49","49"
-"Installation, Maintenance, and Repair Occupations",,"Telecommunications line installers and repairers","49-9052","49"
-"Legal Occupations",,"Legal occupations","23-0000","23"
-"Life, Physical, and Social Science Occupations",,"Life, physical, and social science occupations","19-0000","19"
-"Management Occupations",,"Construction managers","11-9021","11"
-"Management Occupations",,"Farmers, ranchers, and other agricultural managers","11-9013","11"
-"Management Occupations",,"Food service managers","11-9051","11"
-"Management Occupations",,"Other Management Occupations","other-11","11"
-"Management Occupations",,"Property, real estate, and community association managers","11-9141","11"
-"Office and Administrative Support Occupations",,"Office and administrative support occupations","43-0000","43"
-"Personal Care and Service Occupations",,"Personal care and service occupations","39-0000","39"
-"Production Occupations",,"First-line supervisors of production and operating workers","51-1011","51"
-"Production Occupations",,"Other Production Occupations","other-51","51"
-"Production Occupations",,"Welding, soldering, and brazing workers","51-4120","51"
-"Protective Service Occupations",,"Security guards and gambling surveillance officers","33-9030","33"
-"Sales and Related Occupations",,"Cashiers","41-2010","41"
-"Sales and Related Occupations",,"First-line supervisors of non-retail sales workers","41-1012","41"
-"Sales and Related Occupations",,"First-line supervisors of retail sales workers","41-1011","41"
-"Sales and Related Occupations",,"Other Sales and Related Occupations","other-41","41"
-"Sales and Related Occupations",,"Retail salespersons","41-2031","41"
-"Transportation and Material Moving Occupations",,"Aircraft pilots and flight engineers","53-2010","53"
-"Transportation and Material Moving Occupations",,"Driver/sales workers and truck drivers","53-3030","53"
-"Transportation and Material Moving Occupations",,"Industrial truck and tractor operators","53-7051","53"
-"Transportation and Material Moving Occupations",,"Laborers and freight, stock, and material movers, hand","53-7062","53"
-"Transportation and Material Moving Occupations",,"Other Transportation and Material Moving Occupations","other-53","53"
-"Transportation and Material Moving Occupations",,"Refuse and recyclable material collectors","53-7081","53"
-"Transportation and Material Moving Occupations",,"Shuttle drivers, chauffeurs, and taxi drivers","53-3053","53"
+category,subheader,specific_occupation,soc_code,parent_code
+Architecture and Engineering Occupations,,Architecture and engineering workers,17-0000,17
+"Arts, Design, Entertainment, Sports, and Media Occupations",,"Other arts, design, entertainment, sports, and media workers",other-27,27
+"Arts, Design, Entertainment, Sports, and Media Occupations",,"Athletes, coaches, umpires, and related workers",27-2020,27
+Building and Grounds Cleaning and Maintenance Occupations,,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,37
+Building and Grounds Cleaning and Maintenance Occupations,,Grounds maintenance workers,37-3010,37
+Building and Grounds Cleaning and Maintenance Occupations,,Other building and grounds cleaning and maintenance workers,other-37,37
+Business and Financial Operations Occupations,,Business and financial operations workers,13-0000,13
+Community and Social Service Occupations,,Community and social service workers,21-0000,21
+Computer and Mathematical Occupations,,Computer and mathematical workers,15-0000,15
+Construction and Extraction Occupations,,Carpenters,47-2031,47
+Construction and Extraction Occupations,,Construction equipment operators,47-2070,47
+Construction and Extraction Occupations,,Construction laborers,47-2061,47
+Construction and Extraction Occupations,,Electricians,47-2111,47
+Construction and Extraction Occupations,,First-line supervisors of construction trades and extraction workers,47-1011,47
+Construction and Extraction Occupations,,"Helpers, construction trades",47-3010,47
+Construction and Extraction Occupations,,Other construction and extraction workers,other-47,47
+Construction and Extraction Occupations,,Painters and paperhangers,47-2140,47
+Construction and Extraction Occupations,,"Pipelayers, plumbers, pipefitters, and steamfitters",47-2150,47
+Construction and Extraction Occupations,,Roofers,47-2181,47
+Construction and Extraction Occupations,,Structural iron and steel workers,47-2221,47
+Construction and Extraction Occupations,,Underground mining machine operators,47-5040,47
+Educational Instruction and Library Occupations,,Educational instruction and library occupations,25-0000,25
+"Farming, Fishing, and Forestry Occupations",,Fishing and hunting workers,45-3031,45
+"Farming, Fishing, and Forestry Occupations",,Logging workers,45-4020,45
+"Farming, Fishing, and Forestry Occupations",,Miscellaneous agricultural workers,45-2090,45
+"Farming, Fishing, and Forestry Occupations",,"Other farming, fishing, and forestry workers",other-45,45
+Food Preparation and Serving Related Occupations,,Other food preparation and serving workers,other-35,35
+Food Preparation and Serving Related Occupations,,Supervisors of food preparation and serving workers,35-1010,35
+Healthcare Practitioners and Technical Occupations,,Emergency medical technicians and paramedics,29-2042,29
+Healthcare Practitioners and Technical Occupations,,Other Healthcare Practitioners and Technical Occupations,other-29,29
+Healthcare Practitioners and Technical Occupations,,Registered nurses,29-1141,29
+Healthcare Support Occupations,,Healthcare support workers,31-0000,31
+"Installation, Maintenance, and Repair Occupations",,Automotive service technicians and mechanics,49-3023,49
+"Installation, Maintenance, and Repair Occupations",,Bus and truck mechanics and diesel engine specialists,49-3031,49
+"Installation, Maintenance, and Repair Occupations",,Electrical power-line installers and repairers,49-9051,49
+"Installation, Maintenance, and Repair Occupations",,"First-line supervisors of mechanics, installers, and repairers",49-1011,49
+"Installation, Maintenance, and Repair Occupations",,"Heating, air conditioning, and refrigeration mechanics and installers",49-9021,49
+"Installation, Maintenance, and Repair Occupations",,"Industrial machinery installation, repair, and maintenance workers",49-9040,49
+"Installation, Maintenance, and Repair Occupations",,"Maintenance and repair workers, general",49-9071,49
+"Installation, Maintenance, and Repair Occupations",,"Other installation, maintenance, and repair workers",other-49,49
+"Installation, Maintenance, and Repair Occupations",,Telecommunications line installers and repairers,49-9052,49
+Legal Occupations,,Legal workers,23-0000,23
+"Life, Physical, and Social Science Occupations",,"Life, physical, and social science workers",19-0000,19
+Management Occupations,,Construction managers,Nov-21,11
+Management Occupations,,"Farmers, ranchers, and other agricultural managers",Nov-13,11
+Management Occupations,,Food service managers,Nov-51,11
+Management Occupations,,Other management workers,other-11,11
+Management Occupations,,"Property, real estate, and community association managers",Nov-41,11
+Office and Administrative Support Occupations,,Office and administrative support workers,43-0000,43
+Personal Care and Service Occupations,,Personal care and service workers,39-0000,39
+Production Occupations,,First-line supervisors of production and operating workers,51-1011,51
+Production Occupations,,Other Production workers,other-51,51
+Production Occupations,,"Welding, soldering, and brazing workers",51-4120,51
+Protective Service Occupations,,Security guards and gambling surveillance officers,33-9030,33
+Sales and Related Occupations,,Cashiers,41-2010,41
+Sales and Related Occupations,,First-line supervisors of non-retail sales workers,41-1012,41
+Sales and Related Occupations,,First-line supervisors of retail sales workers,41-1011,41
+Sales and Related Occupations,,Other sales and related workers,other-41,41
+Sales and Related Occupations,,Retail salespersons,41-2031,41
+Transportation and Material Moving Occupations,,Aircraft pilots and flight engineers,53-2010,53
+Transportation and Material Moving Occupations,,Driver/sales workers and truck drivers,53-3030,53
+Transportation and Material Moving Occupations,,Industrial truck and tractor operators,53-7051,53
+Transportation and Material Moving Occupations,,"Laborers and freight, stock, and material movers, hand",53-7062,53
+Transportation and Material Moving Occupations,,Other transportation and material moving workers,other-53,53
+Transportation and Material Moving Occupations,,Refuse and recyclable material collectors,53-7081,53
+Transportation and Material Moving Occupations,,"Shuttle drivers, chauffeurs, and taxi drivers",53-3053,53
