@@ -20,7 +20,7 @@ Construction and Extraction Occupations,,"Pipelayers, plumbers, pipefitters, and
 Construction and Extraction Occupations,,Roofers,47-2181,47
 Construction and Extraction Occupations,,Structural iron and steel workers,47-2221,47
 Construction and Extraction Occupations,,Underground mining machine operators,47-5040,47
-Educational Instruction and Library Occupations,,Educational instruction and library occupations,25-0000,25
+Educational Instruction and Library Occupations,,Educational instruction and library workers,25-0000,25
 "Farming, Fishing, and Forestry Occupations",,Fishing and hunting workers,45-3031,45
 "Farming, Fishing, and Forestry Occupations",,Logging workers,45-4020,45
 "Farming, Fishing, and Forestry Occupations",,Miscellaneous agricultural workers,45-2090,45
@@ -28,7 +28,7 @@ Educational Instruction and Library Occupations,,Educational instruction and lib
 Food Preparation and Serving Related Occupations,,Other food preparation and serving workers,other-35,35
 Food Preparation and Serving Related Occupations,,Supervisors of food preparation and serving workers,35-1010,35
 Healthcare Practitioners and Technical Occupations,,Emergency medical technicians and paramedics,29-2042,29
-Healthcare Practitioners and Technical Occupations,,Other Healthcare Practitioners and Technical Occupations,other-29,29
+Healthcare Practitioners and Technical Occupations,,Other healthcare practitioners and technical workers,other-29,29
 Healthcare Practitioners and Technical Occupations,,Registered nurses,29-1141,29
 Healthcare Support Occupations,,Healthcare support workers,31-0000,31
 "Installation, Maintenance, and Repair Occupations",,Automotive service technicians and mechanics,49-3023,49
@@ -42,8 +42,8 @@ Healthcare Support Occupations,,Healthcare support workers,31-0000,31
 "Installation, Maintenance, and Repair Occupations",,Telecommunications line installers and repairers,49-9052,49
 Legal Occupations,,Legal workers,23-0000,23
 "Life, Physical, and Social Science Occupations",,"Life, physical, and social science workers",19-0000,19
-Management Occupations,,Construction managers,Nov-21,11
-Management Occupations,,"Farmers, ranchers, and other agricultural managers",Nov-13,11
+Management Occupations,,Construction managers,21-Nov,11
+Management Occupations,,"Farmers, ranchers, and other agricultural managers",13-Nov,11
 Management Occupations,,Food service managers,Nov-51,11
 Management Occupations,,Other management workers,other-11,11
 Management Occupations,,"Property, real estate, and community association managers",Nov-41,11
